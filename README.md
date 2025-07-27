@@ -3,6 +3,7 @@
 🎓 **Disciplina:** Sistemas Operacionais
 
 👨‍🏫 **Professor:** André Luís de Lucena Torres
+
 📅 **Iniciado:** Feito durante o mês de Julho e Agosto e entregue em até 25 de Agosto
 
 
