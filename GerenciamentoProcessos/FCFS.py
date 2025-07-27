@@ -1,11 +1,13 @@
-# FCFS - First Come First Served or FIFO (Simulation)
+#
+# INFO: FCFS - First Come First Served ou FIFO (Simulação)
+#
 
 from processos import processos 
 
 tempo=0
 
 for processo in processos:
-    if tempo <processo["Chegada"]:
+    if tempo<processo["Chegada"]:
         tempo=processo["Chegada"]
 
     inicio = tempo
