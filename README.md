@@ -8,7 +8,7 @@
 
 **Descrição:** Esta atividade integradora abrange desde os <span style="color: #8A2BE2;">**conceitos fundamentais**</span> até <span style="color: #8A2BE2;">**implementações práticas**.</span>
 
-<img src="purple-dividor.svg" width="100%" height="6" alt="Divisor roxo">
+<img src="purple-divisor.svg" width="100%" height="6" alt="Divisor roxo">
 
 ## 📚 Módulos & Tópicos Abordados
 
@@ -46,7 +46,7 @@
 **Legenda:**
  ✅ = Concluído | 🔄 = Em Progresso | ❌ = Não Iniciado
 
-<img src="purple-dividor.svg" width="100%" height="6" alt="Divisor roxo">
+<img src="purple-divisor.svg" width="100%" height="6" alt="Divisor roxo">
 
 ## 📁 Estrutura do Repositório
 
@@ -61,7 +61,7 @@
 └── 📄 README.md – Guia principal do projeto
 ```
 
-<img src="purple-dividor.svg" width="100%" height="6" alt="Divisor roxo">
+<img src="purple-divisor.svg" width="100%" height="6" alt="Divisor roxo">
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -72,7 +72,7 @@
 - **Implementar programas com threads, semáforos, mutex** e outros recursos de sincronização
 - **Analisar desempenho de sistemas operacionais** através de ferramentas e comandos específicos
 
-<img src="purple-dividor.svg" width="100%" height="6" alt="Divisor roxo">
+<img src="purple-divisor.svg" width="100%" height="6" alt="Divisor roxo">
 
 ## 💡 O Que Estou Desenvolvendo
 
@@ -81,13 +81,13 @@
 - **Análises de Desempenho** de memória e processos em tempo real
 - **Relatórios Comparativos** entre diferentes arquiteturas e sistemas operacionais
 
-<img src="purple-dividor.svg" width="100%" height="6" alt="Divisor roxo">
+<img src="purple-divisor.svg" width="100%" height="6" alt="Divisor roxo">
 
 ## 📌 Observações
 
 - Todas as etapas incluem **documentação detalhada**.
 
 
-<img src="purple-dividor.svg" width="100%" height="6" alt="Divisor roxo">
+<img src="purple-divisor.svg" width="100%" height="6" alt="Divisor roxo">
 
 > Sistemas Operacionais não são apenas sobre gerenciamento de recursos, são sobre **eficiência**, **confiabilidade**
