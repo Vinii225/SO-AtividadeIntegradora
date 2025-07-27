@@ -1,0 +1,4 @@
+# .gitignore deste repositório
+
+# Ignorando .cpython arquivos da cache
+__pycache__
