@@ -3,3 +3,5 @@
 # Ignorando .cpython arquivos da cache
 __pycache__
 
+# Ignorando arquivos pessoais
+purple-dividor.svg
