@@ -28,9 +28,9 @@
 
 ### 🚀 **Etapa 3: Gerenciamento de Processos**
 - ✅ **Criar uma simulação em Python, C ou PowerShell** (Algoritmos de escalonamento: FCFS e SJF)
-- ❌ **Simular políticas para filas** (Análise de desempenho)
-- ❌ **Comparar resultados obtidos** (Qual seria mais adequado para o SO educacional)
-- ❌ **Explicar parâmetros de debug** (Tempo, utilização, throughput)
+- ✅ **Simular políticas para filas** (Análise de desempenho)
+- ✅ **Comparar resultados obtidos** (Qual seria mais adequado para o SO educacional)
+- ✅ **Explicar parâmetros de debug** (Tempo, utilização, throughput)
 
 ### 🧵 **Etapa 4: Threads e Concorrência**
 - ✅ **Desenvolver um programa com threads** (Python ou C para simular dois processos concorrentes)
