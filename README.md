@@ -33,16 +33,16 @@
 - ❌ **Explicar parâmetros de debug** (Tempo, utilização, throughput)
 
 ### 🧵 **Etapa 4: Threads e Concorrência**
-- ❌ **Desenvolver um programa com threads** (Python ou C para simular dois processos concorrentes)
-- ❌ **Implementar mutexes, semáforos** (Aplicar em problema produtor-consumidor)
-- ❌ **Realizar o modelo de threading** (Utilizando bibliotecas nativas)
-- ❌ **Demonstrar sincronização** (Semáforos, mutex ou outro recurso)
+- ✅ **Desenvolver um programa com threads** (Python ou C para simular dois processos concorrentes)
+- ✅ **Implementar mutexes, semáforos** (Aplicar em problema produtor-consumidor)
+- ✅ **Realizar o modelo de threading** (Utilizando bibliotecas nativas)
+- ✅ **Demonstrar sincronização** (Semáforos, mutex ou outro recurso)
 
 ### 💾 **Etapa 5: Gerenciamento de Memória**
-- ❌ **Verificar o uso da memória** (Comandos de sistema)
-- ❌ **Analisar estatísticas** (Free, /proc/meminfo, ps, top)
-- ❌ **Explicar as colunas** (used / buff / available)
-- ❌ **Analisar estatísticas de memória** (Informações detalhadas de memória em tempo real)
+- ✅ **Verificar o uso da memória** (Comandos de sistema)
+- ✅ **Analisar estatísticas** (Free, /proc/meminfo, ps, top)
+- ✅ **Explicar as colunas** (used / buff / available)
+- ✅ **Analisar estatísticas de memória** (Informações detalhadas de memória em tempo real)
 
 **Legenda:**
  ✅ = Concluído | 🔄 = Em Progresso | ❌ = Não Iniciado
@@ -56,10 +56,17 @@
 ├── 📂 GerenciamentoProcessos/
 │   ├── 🐍 FCFS.py – Algoritmo First Come First Served
 │   ├── 🐍 SJF.py – Algoritmo Shortest Job First  
-│   ├── 🐍 processos.py – Classe e estrutura de processos
-│   └── 📄 .gitignore
+│   └── 🐍 processos.py – Classe e estrutura de processos
+│    
+├── 📂 ThreadsConcorrencia/
+│   ├── 🐍 SimulacaoSemSinc.py – Algoritmo Simulaçao de Threads sem Sincronização
+│   ├── 🐍 SimulacaoComSinc.py – Algoritmo Simulaçao de Threads com Sincronização
+│   └── 🐍 processos.py – Classe e estrutura de processos
+│    
 ├── 📄 PassoAPassoAtividade.pdf – Atividade
-└── 📄 README.md – Guia principal do projeto
+├── 📄 README.md – Guia principal do projeto
+│
+└── 📄 .gitignore
 ```
 
 <img src="purple-divisor.svg" width="100%" height="6" alt="Divisor roxo">
