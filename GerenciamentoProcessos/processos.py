@@ -1,3 +1,7 @@
+#
+# INFO: Processos
+#
+
 processos = [
     {"ID": "P1", "Chegada": 0, "Duração": 8},
     {"ID": "P2", "Chegada": 2, "Duração": 4},
