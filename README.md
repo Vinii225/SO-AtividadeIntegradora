@@ -64,6 +64,7 @@
 │   └── 🐍 processos.py – Classe e estrutura de processos
 │    
 ├── 📄 PassoAPassoAtividade.pdf – Atividade
+├── 📄 ViniciusAres + MariaLaura - AtividadeIntegradoraProjetoSO.pdf – Atividade
 ├── 📄 README.md – Guia principal do projeto
 │
 └── 📄 .gitignore
